@@ -1,0 +1,18 @@
+{
+  "name": "crud-robot-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CRUD.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node CRUD.js",
+    "dev": " nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
